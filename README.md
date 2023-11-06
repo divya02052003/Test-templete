@@ -1,2 +1,2 @@
-# Test-templete
-this is test templete
+print("hello");
+print("hello world");
